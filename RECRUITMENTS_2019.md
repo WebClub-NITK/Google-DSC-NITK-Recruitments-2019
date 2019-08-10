@@ -33,7 +33,7 @@ Have you seen bot application chatting with you like google assistant? Well, the
 * https://get.slack.help/hc/en-us/articles/115005265703-Create-a-bot-for-your-workspace
 
 Tips :<br> 1. Try to host this on your laptop or any suitable cloud service.<br>
-      2. If you have any similar idea and can implement that as well, it will fetch bonus points for you.
+      2. If you have any similar idea and can implement that as well, it will fetch bonus points for you.<br>
       3. Try to ask right questions, your mentors are always there to help you.      
 
 ### Submission Guidelines(It will be same for all the tasks, write individual requirements in tips:P):
