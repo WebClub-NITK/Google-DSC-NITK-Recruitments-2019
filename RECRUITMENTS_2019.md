@@ -21,5 +21,19 @@ on the signup page, it's obvious to use this way as it's fast and just one click
 Tips :<br> 1. Try to host this on your laptop or any suitable cloud service.<br>
       2. If you implement third party authentication using all three namely google, facebook and github you will get bonus points.<br>
       3. Try to ask right questions, your mentors are always there to help you. 
+<br> <br> <br>     
+## Problem Statement ID: Slack_Bot
+
+Mentor: [@mishal](https://github.com/mishal23)
+
+### Description
+Have you seen bot application chatting with you like google assistant? Well, there are pretty simple ways for making applications like slack bot which sends message to slack organization. 
+
+### Useful resources:
+* https://get.slack.help/hc/en-us/articles/115005265703-Create-a-bot-for-your-workspace
+
+Tips :<br> 1. Try to host this on your laptop or any suitable cloud service.<br>
+      2. If you have any similar idea and can implement that as well, it will fetch bonus points for you.
+      3. Try to ask right questions, your mentors are always there to help you.      
 
 ### Submission Guidelines(It will be same for all the tasks, write individual requirements in tips:P):
