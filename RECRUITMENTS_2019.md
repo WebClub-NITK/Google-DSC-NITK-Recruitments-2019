@@ -35,5 +35,15 @@ Have you seen bot application chatting with you like google assistant? Well, the
 Tips :<br> 1. Try to host this on your laptop or any suitable cloud service.<br>
       2. If you have any similar idea and can implement that as well, it will fetch bonus points for you.<br>
     
+## Problem Statement ID: Blazor_App
+Mentor: [@utkarsh23](https://github.com/utkarsh23)
+### Description
+Create a Blazor application that can fetch upto a million records using lazy loading. You can use [this dataset](http://downloads.majestic.com/majestic_million.csv) or any other dataset of your choice consisting of a million records and atleast five attributes. Try and implement lazy loading on your own without using any library. Specifics like *how many records to load per scroll event* must be chosen in a manner that provides the best user experience.
+### Useful resources:
+* https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.0
+* https://learn-blazor.com/
+* Lazy loading example: https://scrollmagic.io/examples/advanced/infinite_scrolling.html
 
+Tips:
+* You get bonus points for hosting onto a cloud service (Azure definitely has support for this).
 ### Submission Guidelines(It will be same for all the tasks, write individual requirements in tips:P):
