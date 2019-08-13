@@ -34,6 +34,21 @@ Have you seen bot application chatting with you like google assistant? Well, the
 
 Tips :<br> 1. Try to host this on your laptop or any suitable cloud service.<br>
       2. If you have any similar idea and can implement that as well, it will fetch bonus points for you.<br>
+      
+<br> <br> 
+## Problem Statement ID: Chat_bot
+
+Mentor: [@prajwal](https://github.com/prajwal27)
+
+### Description
+You must have heard about chatbot! So,in this problem statement, we want you to implement a chatbot in an android app.
+We recommend you to use DialogFlow.
+
+### Useful resources:
+* https://dialogflow.com/docs
+
+Tips :<br> 1. Try to maintain a clean and understandable code.<br>
+      2. Bonus Points for good UI and bug free app.
     
 
 ### Submission Guidelines(It will be same for all the tasks, write individual requirements in tips:P):
