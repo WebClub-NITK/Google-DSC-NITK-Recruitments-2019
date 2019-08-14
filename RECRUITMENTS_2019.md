@@ -61,4 +61,19 @@ Create a Blazor application that can fetch upto a million records using lazy loa
 
 Tips:
 * You get bonus points for hosting onto a cloud service (Azure definitely has support for this).
+
+## Problem Statement ID: Survey_App
+Mentor: [@SaurabhAgarwala](https://github.com/SaurabhAgarwala)
+### Description
+Create a Survey application which will have a few questions (atleast 5) along with few options (atleast 3 for each question), which will be loaded using jQuery. When the survey is  completed by a person, then show him the aggregate result of the survey until that time. The app should have a decent UI, and a smooth-flow between parts of the survey and the results. There should also be authentication of the user and hence restricting a particular user to take the survey only one time.
+### Useful resources:
+* https://www.w3schools.com/jquery/ajax_get.asp
+* https://www.youtube.com/watch?v=H5aVejBcM8k&list=PLB5jA40tNf3vkj5O2NCwMbDZo0Q8GV5Fn&index=1
+
+Tips:
+* You get bonus points for hosting onto a cloud service (AWS,Azure,etc)
+* Any other relevant innovative idea related to the task from your side will also give you merit points
+
+
 ### Submission Guidelines(It will be same for all the tasks, write individual requirements in tips:P):
+
