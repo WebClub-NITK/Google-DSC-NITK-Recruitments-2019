@@ -64,7 +64,7 @@ Create a Blazor application that can fetch upto a million records using lazy loa
 * You get bonus points for hosting onto a cloud service (Azure definitely has support for this).
 
 <br> <br>
-## Problem Statement ID: Survey_App
+## Task ID: Survey_App
 Mentor: [@SaurabhAgarwala](https://github.com/SaurabhAgarwala)
 
 ### Description
