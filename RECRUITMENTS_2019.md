@@ -107,3 +107,45 @@ Please refer the resources section for helpful hints
 * Courses: https://www.udacity.com/course/android-basics-multiscreen-apps--ud839. Also checkout related one's here on Udacity.
 
 <br> <br> 
+
+
+
+<br> <br>
+## Task ID: WebClub Website Design
+#### Web Development,HTML,CSS
+
+Mentor: [@bordia98](https://github.com/bordia98) 
+
+### Description
+
+
+Designing and creating webclub website. The task involves designing the website and making it more user friendly. This task will require the use of basic HTML/CSS/Javascript.
+
+The website is divided into 5 sections: 
+* index.html : Home page
+* Projects section - Page for the projects done in past and ongoing projects
+* Team - Page displaying the members of clubs 
+* Events - Details of events conducted by the club throughout the year
+* Contests - Details of the contest held by the club throughout the year
+
+* For your reference you can checkout the previous version of website https://webclub-nitk.github.io/
+
+* You can use github pages to host your site. 
+
+* You can pull the branch for the required structure for the website. You can go in branches section and pull the website branch.
+
+* Bonus points will be given if you first design the website on some tool like photoshop and then implement the same or equally likely for the website.
+
+
+### Tips
+* Bonus points for design the page on photoshop and then implementing it.
+* Points will be awarded if you complete individual sections also.
+
+### Useful resources:
+
+* HTML Tutorials : https://www.tutorialspoint.com/html/index.htm
+* CSS Tutorials : https://www.tutorialspoint.com/css/index.htm
+* JS Tutorials : https://www.tutorialspoint.com/javascript/index.htm
+* Github Pages: https://medium.com/@erickcodes/creating-and-deploying-a-static-website-using-github-pages-a634a588ed7d
+
+<br> <br>
