@@ -7,7 +7,7 @@
 <br> <br> 
 ## Task ID: Google/Facebook/Github_Auth
 Mentor: [@mananpoddar](https://github.com/mananpoddar)
-
+Tag: Easy<br>
 ### Description
 You must have seen websites using third party authentication. For example, think about how you login these days on almost every 
 websites using your google account or facebook or github. Well, the reason being that instead of putting your details manually
@@ -15,6 +15,7 @@ on the signup page, it's obvious to use this way as it's fast and just one click
 
 ### Useful resources:
 * https://developers.google.com/identity/sign-in/web/
+* https://realpython.com/flask-google-login/
 
 ### Tips 
 1. Try to host this on your laptop or any suitable cloud service
