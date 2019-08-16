@@ -128,13 +128,13 @@ The website is divided into 5 sections:
 * Events - Details of events conducted by the club throughout the year
 * Contests - Details of the contest held by the club throughout the year
 
-* For your reference you can checkout the previous version of website https://webclub-nitk.github.io/
+For your reference you can checkout the previous version of website https://webclub-nitk.github.io/
 
-* You can use github pages to host your site. 
+You can use github pages to host your site. 
 
-* You can pull the branch for the required structure for the website. You can go in branches section and pull the website branch.
+You can pull the branch for the required structure for the website. You can go in branches section and pull the website branch.
 
-* Bonus points will be given if you first design the website on some tool like photoshop and then implement the same or equally likely for the website.
+Bonus points will be given if you first design the website on some tool like photoshop and then implement the same or equally likely for the website.
 
 
 ### Tips
