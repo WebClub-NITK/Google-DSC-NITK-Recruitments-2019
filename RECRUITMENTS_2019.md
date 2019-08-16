@@ -110,7 +110,9 @@ Please refer the resources section for helpful hints
 
 ## Task ID: Image Editing App
 
-Mentor: [@vansjyo](https://github.com/vansjyo)
+Mentor: [@vansjyo](https://github.com/vansjyo) (9611591432)
+<br>
+Tag: `Medium`
 
 ### Description
 The task is to create a Wep app which can do the following:
@@ -125,6 +127,8 @@ The task is to create a Wep app which can do the following:
 * Refer given resources, or others that serve similar purpose. Anything other than `CamanJS` can also be used. 
 
 ### Useful resources:
+* https://www.w3schools.com/html/html_css.asp
+* https://www.w3schools.com/jquery/default.asp
 * https://www.w3schools.com/tags/canvas_drawimage.asp
 * https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
 * http://camanjs.com/
