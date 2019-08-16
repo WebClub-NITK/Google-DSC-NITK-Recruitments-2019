@@ -107,20 +107,21 @@ Please refer the resources section for helpful hints
 
 <br> <br> 
 ## Task ID: Chrome extension for weather forecast
+#### Chrome Extension,OpenWeather api,geolocation
 
 Mentor: [@harshprakashgupta](https://github.com/harshnitk17)
 
 ### Description
 Create a chrome extension which can access the user's location and display current weather situation which can include various factors like temperature,wind,pressure,humidity,etc.Participants can use the geolocation api to access the user's location and openweather api to get the weather information.Also bonus points to participants who can use the 5 day openweather api to show weather information of a particular city for 5 days.
 
+###Tips 
+* Points will also be given for the user interface (UI) of the extension,so also try to improve the design of the extension. <br>
+
 ### Useful resources:
 * Getting started with chrome extensions: https://developer.chrome.com/extensions/getstarted
 * Getting started with openweather api: https://openweathermap.org/appid
 * Openweather 'current' api documentation: https://openweathermap.org/current
 * Openweather 'forecast5' api documentation: https://openweathermap.org/forecast5
-* https://www.youtube.com/watch?v=KSf417F3ui0
-
-###Tips 
-* Points will also be given for the user interface (UI) of the extension,so also try to improve the design of the extension. <br>
+* Geolocation demo : https://www.youtube.com/watch?v=KSf417F3ui0
      
 <br> <br>
