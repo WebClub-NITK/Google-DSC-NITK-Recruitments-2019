@@ -213,7 +213,7 @@ Bonus points will be given if you first design the website on some tool like pho
 
 <br> <br>
 ## Task ID: Real time streaming using WebSockets
-#### NoSQL DB, Web Sockets
+#### NodeJS, Web Sockets
 
 Mentor: [@NishanthSubramanian](https://github.com/NishanthSubramanian) 
 
