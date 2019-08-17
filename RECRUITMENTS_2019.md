@@ -212,3 +212,22 @@ Bonus points will be given if you first design the website on some tool like pho
 * Github Pages: https://medium.com/@erickcodes/creating-and-deploying-a-static-website-using-github-pages-a634a588ed7d
 
 <br> <br>
+## Task ID: Real time streaming using WebSockets
+#### NoSQL DB, Web Sockets
+
+Mentor: [@NishanthSubramanian](https://github.com/NishanthSubramanian) 
+
+### Description
+
+The task is to build an app that consists of a server and a client. The server can be written in NodeJS, Python, Ruby or any language/runtime of your choice. The client is a single HTML webpage, which can be opened directly in the browser. The page uses the HTML5 WebSocket spec to connect and stream data to and from the server in real-time. Preferably use plain javascript for the web socket front end.
+
+### Tips
+* Maintain understandable code.
+* Bonus points for making the application cross-browser compatible.
+
+### Useful resources:
+* WebSockets tutorial : https://www.html5rocks.com/en/tutorials/websockets/basics/
+* Using Websockets : https://www.beautifulcode.co/blog/54-an-introduction-to-websocket
+* NodeJS : https://nodejs.org/en/docs/
+
+<br> <br>
