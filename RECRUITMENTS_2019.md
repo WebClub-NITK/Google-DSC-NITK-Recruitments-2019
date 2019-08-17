@@ -220,7 +220,7 @@ Mentor: [@NishanthSubramanian](https://github.com/NishanthSubramanian)
 ### Description
 
 To build an app that consists of a server and a client. The server can be written in NodeJS, Python, Ruby or any language/runtime of your choice. The client is a single HTML webpage, which can be opened directly in the browser. The page uses the HTML5 WebSocket spec to connect and stream data to and from the server in real-time. Preferably use plain javascript for the web socket front end. Each client connects to the server and each client should be able to view the real time connections of all clients connected at that point.
-
+![alt text](https://tinyurl.com/y56l9tyz)
 ### Tips
 * Maintain understandable code.
 * Bonus points for making the application cross-browser compatible.
