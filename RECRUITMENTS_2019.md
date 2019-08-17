@@ -86,6 +86,7 @@ Additional Tasks: Extending the above application to let registered users create
 ### Tips
 * You get bonus points for hosting onto a cloud service (AWS,Azure,etc)
 * Any other relevant innovative idea related to the task from your side will also fetch you merit points
+* The task involves a lot of things, thats why it is classified as hard. But each individual part is not that difficult and plenty of resources are available online to get through it. Try completing as many parts as possible.
 
 <br> <br>
 ## Task ID: Android_Mobile_Vision
