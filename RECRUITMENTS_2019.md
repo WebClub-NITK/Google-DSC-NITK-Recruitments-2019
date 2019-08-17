@@ -26,7 +26,7 @@ on the signup page, it's obvious to use this way as it's fast and just one click
 <br> <br> 
 ## Task ID: Slack_Bot
 
-Mentor: [@mishal](https://github.com/mishal23)
+Mentor: [@mishal23](https://github.com/mishal23) (+91 9725801399)
 
 Tag: Easy-Medium <br>
 
