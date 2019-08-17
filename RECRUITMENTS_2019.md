@@ -67,16 +67,25 @@ Create a Blazor application that can fetch upto a million records using lazy loa
 <br> <br>
 ## Task ID: Survey_App
 Mentor: [@SaurabhAgarwala](https://github.com/SaurabhAgarwala)
+<br>
+Tags: Hard 
 
 ### Description
-Create a Survey application which will have a few questions (atleast 5) along with few options (atleast 3 for each question), which will be loaded using jQuery. When the survey is  completed by a person, then show him the aggregate result of the survey until that time. The app should have a decent UI, and a smooth-flow between parts of the survey and the results. There should also be authentication of the user and hence restricting a particular user to take the survey only one time.
+Basic Requirement: Create a Survey web application using any backend framework which will have a few questions (atleast 5) along with few options (atleast 3 for each question), and should load dynamically using jQuery. When the survey is completed by an individual, then show the aggregate result of the survey until that time. The app should have a decent UI, and a smooth-flow across various parts of the survey and the results. There should also be authentication of the user and hence restricting a particular user to take the survey only one time.
+
+Additional Tasks: Extending the above application to let registered users create their own survey, select the respondents among the registered users thus restricting access to the survey for others and adding chained-comments features on the result page of each particular survey.
+
 ### Useful resources:
-* https://www.w3schools.com/jquery/ajax_get.asp
+* https://docs.djangoproject.com/en/2.2/intro/tutorial01/
 * https://www.youtube.com/watch?v=H5aVejBcM8k&list=PLB5jA40tNf3vkj5O2NCwMbDZo0Q8GV5Fn&index=1
+* https://docs.djangoproject.com/en/2.2/topics/auth/default/#user-objects
+* https://tutorial-extensions.djangogirls.org/en/homework_create_more_models/* 
+* https://www.w3schools.com/jquery/ajax_get.asp
+
 
 ### Tips
 * You get bonus points for hosting onto a cloud service (AWS,Azure,etc)
-* Any other relevant innovative idea related to the task from your side will also give you merit points
+* Any other relevant innovative idea related to the task from your side will also fetch you merit points
 
 <br> <br>
 ## Task ID: Android_Mobile_Vision
