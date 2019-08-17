@@ -6,7 +6,9 @@
 
 <br> <br> 
 ## Task ID: Google/Facebook/Github_Auth
+
 Mentor: [@mananpoddar](https://github.com/mananpoddar)
+Tag: Easy<br>
 
 ### Description
 You must have seen websites using third party authentication. For example, think about how you login these days on almost every 
@@ -15,6 +17,7 @@ on the signup page, it's obvious to use this way as it's fast and just one click
 
 ### Useful resources:
 * https://developers.google.com/identity/sign-in/web/
+* https://realpython.com/flask-google-login/
 
 ### Tips 
 1. Try to host this on your laptop or any suitable cloud service
@@ -36,6 +39,7 @@ Have you seen bot application chatting with you like google assistant? Well, the
 
 <br> <br>
 ## Task ID: Chat_bot
+
 Mentor: [@prajwal](https://github.com/prajwal27)
 
 ### Description
@@ -51,6 +55,7 @@ We recommend you to use DialogFlow.
 
 <br> <br> 
 ## Task ID: Blazor_App
+
 Mentor: [@utkarsh23](https://github.com/utkarsh23)
 
 ### Description
@@ -107,14 +112,14 @@ Please refer the resources section for helpful hints
 
 <br> <br> 
 ## Task ID: Chrome extension for weather forecast
-#### Chrome Extension,OpenWeather api,geolocation
+#### Chrome Extension, OpenWeather api, geolocation
 
 Mentor: [@harshprakashgupta](https://github.com/harshnitk17)
 
 ### Description
 Create a chrome extension which can access the user's location and display current weather situation which can include various factors like temperature,wind,pressure,humidity,etc.Participants can use the geolocation api to access the user's location and openweather api to get the weather information.Also bonus points to participants who can use the 5 day openweather api to show weather information of a particular city for 5 days.
 
-###Tips 
+### Tips 
 * Points will also be given for the user interface (UI) of the extension,so also try to improve the design of the extension. <br>
 
 ### Useful resources:
@@ -124,4 +129,68 @@ Create a chrome extension which can access the user's location and display curre
 * Openweather 'forecast5' api documentation: https://openweathermap.org/forecast5
 * Geolocation demo : https://www.youtube.com/watch?v=KSf417F3ui0
      
+<br> <br> 
+## Task ID: Image Editing App
+#### Web App 
+
+Mentor: [@vansjyo](https://github.com/vansjyo) (9611591432)
+<br>
+Tag: `Medium`
+
+### Description
+The task is to create a Wep app which can do the following:
+* A user uploads a photo (you can set max size of image, format of image, etc). Even fetching image from URL will do.
+* The image is displayed on a canvas in the web app on the same page, or after redirecting to the next page, whatever seems confortable.
+* Atleast 3 editing options like Brightness, Saturation and Contrast should be provided using either a range type input, or number input box, whatever seems confortable.
+* The web app can have a basic layout, no fancy UI required.
+
+### Tips
+* Bonus points for clean UI layout, code structure and number of ways provided to upload image. 
+* Further enhancements can be added as per your wish.
+* Refer given resources, or others that serve similar purpose. Anything other than `CamanJS` can also be used. 
+
+### Useful resources:
+* https://www.w3schools.com/html/html_css.asp
+* https://www.w3schools.com/jquery/default.asp
+* https://www.w3schools.com/tags/canvas_drawimage.asp
+* https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
+* http://camanjs.com/
+
+<br> <br>
+## Task ID: WebClub_Website_Design
+#### Web Development,HTML,CSS
+
+Mentor: [@bordia98](https://github.com/bordia98) 
+
+### Description
+
+Designing and creating webclub website. The task involves designing the website and making it more user friendly. This task will require the use of basic HTML/CSS/Javascript.
+
+The website is divided into 5 sections: 
+* index.html : Home page
+* Projects section - Page for the projects done in past and ongoing projects
+* Team - Page displaying the members of clubs 
+* Events - Details of events conducted by the club throughout the year
+* Contests - Details of the contest held by the club throughout the year
+
+For your reference you can checkout the previous version of website https://webclub-nitk.github.io/
+
+You can use github pages to host your site. 
+
+You can pull the branch for the required structure for the website. You can go in branches section and pull the website branch.
+
+Bonus points will be given if you first design the website on some tool like photoshop and then implement the same or equally likely for the website.
+
+
+### Tips
+* Bonus points for design the page on photoshop and then implementing it.
+* Points will be awarded if you complete individual sections also.
+
+### Useful resources:
+
+* HTML Tutorials : https://www.tutorialspoint.com/html/index.htm
+* CSS Tutorials : https://www.tutorialspoint.com/css/index.htm
+* JS Tutorials : https://www.tutorialspoint.com/javascript/index.htm
+* Github Pages: https://medium.com/@erickcodes/creating-and-deploying-a-static-website-using-github-pages-a634a588ed7d
+
 <br> <br>
