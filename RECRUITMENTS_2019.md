@@ -6,8 +6,10 @@
 
 <br> <br> 
 ## Task ID: Google/Facebook/Github_Auth
+
 Mentor: [@mananpoddar](https://github.com/mananpoddar)
 Tag: Easy<br>
+
 ### Description
 You must have seen websites using third party authentication. For example, think about how you login these days on almost every 
 websites using your google account or facebook or github. Well, the reason being that instead of putting your details manually
@@ -37,6 +39,7 @@ Have you seen bot application chatting with you like google assistant? Well, the
 
 <br> <br>
 ## Task ID: Chat_bot
+
 Mentor: [@prajwal](https://github.com/prajwal27)
 
 ### Description
@@ -52,6 +55,7 @@ We recommend you to use DialogFlow.
 
 <br> <br> 
 ## Task ID: Blazor_App
+
 Mentor: [@utkarsh23](https://github.com/utkarsh23)
 
 ### Description
@@ -107,8 +111,28 @@ Please refer the resources section for helpful hints
 * Courses: https://www.udacity.com/course/android-basics-multiscreen-apps--ud839. Also checkout related one's here on Udacity.
 
 <br> <br> 
+## Task ID: Chrome extension for weather forecast
+#### Chrome Extension, OpenWeather api, geolocation
+
+Mentor: [@harshprakashgupta](https://github.com/harshnitk17)
+
+### Description
+Create a chrome extension which can access the user's location and display current weather situation which can include various factors like temperature,wind,pressure,humidity,etc.Participants can use the geolocation api to access the user's location and openweather api to get the weather information.Also bonus points to participants who can use the 5 day openweather api to show weather information of a particular city for 5 days.
+
+### Tips 
+* Points will also be given for the user interface (UI) of the extension,so also try to improve the design of the extension. <br>
+
+### Useful resources:
+* Getting started with chrome extensions: https://developer.chrome.com/extensions/getstarted
+* Getting started with openweather api: https://openweathermap.org/appid
+* Openweather 'current' api documentation: https://openweathermap.org/current
+* Openweather 'forecast5' api documentation: https://openweathermap.org/forecast5
+* Geolocation demo : https://www.youtube.com/watch?v=KSf417F3ui0
+     
+<br> <br> 
 ## Task ID: Image Editing App
 #### Web App 
+
 Mentor: [@vansjyo](https://github.com/vansjyo) (9611591432)
 <br>
 Tag: `Medium`
@@ -135,6 +159,7 @@ The task is to create a Wep app which can do the following:
 <br> <br>
 ## Task ID: WebClub_Website_Design
 #### Web Development,HTML,CSS
+
 Mentor: [@bordia98](https://github.com/bordia98) 
 
 ### Description
