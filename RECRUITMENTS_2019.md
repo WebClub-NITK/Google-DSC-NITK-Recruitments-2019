@@ -107,17 +107,37 @@ Please refer the resources section for helpful hints
 * Courses: https://www.udacity.com/course/android-basics-multiscreen-apps--ud839. Also checkout related one's here on Udacity.
 
 <br> <br> 
+## Task ID: Image Editing App
+#### Web App 
+Mentor: [@vansjyo](https://github.com/vansjyo) (9611591432)
+<br>
+Tag: `Medium`
 
+### Description
+The task is to create a Wep app which can do the following:
+* A user uploads a photo (you can set max size of image, format of image, etc). Even fetching image from URL will do.
+* The image is displayed on a canvas in the web app on the same page, or after redirecting to the next page, whatever seems confortable.
+* Atleast 3 editing options like Brightness, Saturation and Contrast should be provided using either a range type input, or number input box, whatever seems confortable.
+* The web app can have a basic layout, no fancy UI required.
 
+### Tips
+* Bonus points for clean UI layout, code structure and number of ways provided to upload image. 
+* Further enhancements can be added as per your wish.
+* Refer given resources, or others that serve similar purpose. Anything other than `CamanJS` can also be used. 
+
+### Useful resources:
+* https://www.w3schools.com/html/html_css.asp
+* https://www.w3schools.com/jquery/default.asp
+* https://www.w3schools.com/tags/canvas_drawimage.asp
+* https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
+* http://camanjs.com/
 
 <br> <br>
 ## Task ID: WebClub_Website_Design
 #### Web Development,HTML,CSS
-
 Mentor: [@bordia98](https://github.com/bordia98) 
 
 ### Description
-
 
 Designing and creating webclub website. The task involves designing the website and making it more user friendly. This task will require the use of basic HTML/CSS/Javascript.
 
