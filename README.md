@@ -30,6 +30,6 @@ Fill [this form]() on or before the deadline.
 
 ### Contact
 In case of any further queries: 
-* Mishal Shah ()
+* Mishal Shah (+91 9725801399)
 * Omkar Prabhu (+91 8097366786)
 * Manan Podar (+91 9113536695)

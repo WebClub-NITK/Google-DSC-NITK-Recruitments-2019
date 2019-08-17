@@ -25,13 +25,21 @@ on the signup page, it's obvious to use this way as it's fast and just one click
 
 <br> <br> 
 ## Task ID: Slack_Bot
-Mentor: [@mishal](https://github.com/mishal23)
+
+Mentor: [@mishal23](https://github.com/mishal23) (+91 9725801399)
+
+Tag: Easy-Medium <br>
 
 ### Description
 Have you seen bot application chatting with you like google assistant? Well, there are pretty simple ways for making applications like slack bot which sends message to slack organization. 
+Feel free to create a dummy workspace for the purpose. A simple example would be to fetch the lyrics of a song and display, you could imagine on your own and make a bot of your choice and the purpose.
+
+Note: Getting Lyrics of a song bot is just an example, feel free to imagine a bot of your own, validate the idea from the mentor before proceeding ahead.
+
 
 ### Useful resources:
 * https://get.slack.help/hc/en-us/articles/115005265703-Create-a-bot-for-your-workspace
+* https://github.com/Techcatchers/PyLyrics-Extractor
 
 ### Tips
 1. Try to host this on your laptop or any suitable cloud service.
