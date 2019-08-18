@@ -17,7 +17,7 @@ You must have seen websites using third party authentication. For example, think
 website using your google account or facebook or github. Well, the reason being that instead of putting your details manually
 on the signup page, it's obvious to use this way as it's fast and just one click away. 
 
-Your task is to make a single web page having OAuth from one of the OAuth providers. After a user loggs in there should be another page to display the basic user detail provided by the OAuth provider. 
+Your task is to make a single web page having OAuth from one of the OAuth providers. After a user logs in, there should be another page to display the basic user detail provided by the OAuth provider. 
 
 ### Useful resources:
 * https://developers.google.com/identity/sign-in/web/
