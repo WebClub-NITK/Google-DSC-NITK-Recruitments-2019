@@ -62,11 +62,13 @@ Mentor: [@prajwal](https://github.com/prajwal27) (+91 9632721417)
 Tag: `Medium`
 
 ### Description
-You must have heard about chatbot! So,in this Task, we want you to implement a chatbot in an android app.
+You must have heard about chatbot! So,in this Task, we want you to implement a chatbot in an android app.The chatbot should able to reply to greeted messages('Hi', 'Hello',etc) and also few custom messgaes.Try to store the history of the chat in firebase database.
 We recommend you to use DialogFlow.
 
 ### Useful resources:
 * https://dialogflow.com/docs
+* https://developer.android.com/training/volley
+* https://github.com/dialogflow/dialogflow-android-client
 
 ### Tips
 1. Try to maintain a clean and understandable code.
