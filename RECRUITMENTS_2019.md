@@ -213,6 +213,13 @@ The website is divided into 5 sections:
 * Events - Details of events conducted by the club throughout the year
 * Contests - Details of the contest held by the club throughout the year
 
+What we expect from You:
+* choose any one page (say projects section) and design it's UI on photoshop.
+* Implement the design from photoshop using html, css and javascript. (You are allowed to use any libraries you want:P)
+* You are allowed to choose only ONE section(say projects section).
+* Your designing skills on photoshop are equally important as Implementation for fetching you good score in this task.
+* Host it on github page.
+
 For your reference you can checkout the previous version of website https://webclub-nitk.github.io/
 
 You can pull the branch for the required structure for the website. You can go in branches section and pull the `website` branch [here](https://github.com/WebClub-NITK/WebClubDevRecruitments_2019/tree/website).
