@@ -242,7 +242,7 @@ You can pull the branch for the required structure for the website. You can go i
 
 Mentor: [@NishanthSubramanian](https://github.com/NishanthSubramanian) (+91 8197845078)
 
-Tag: `Medium`
+Tag: `Medium-Hard`
 
 ### Description
 
