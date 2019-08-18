@@ -2,7 +2,7 @@
 
 #
 * Visit: [Tasks](https://github.com/WebClub-NITK/WebClubDevRecruitments_2019/blob/master/RECRUITMENTS_2019.md)
-* Submission Deadline: **August 2019, 11:59pm**
+* Submission Deadline: **25th August 2019, 11:59pm**
 #
 
 ### Instructions
@@ -18,15 +18,15 @@
 
 ### Evaluation Criteria
 * **Effort**: Main criteria for judgement. It is perfectly fine if you have no experience in the field and trying it out for the first time. Sincere efforts are appreciated.
-* Follow good development Practices:
-	* Clean and Documented Code i.e comments wherever necessary.
-	* Proper Documentation eg. README with usage instructions, setup explaination, etc. 
+* Follow good development practices:
+	* Clean and documented code i.e comments wherever necessary.
+	* Proper documentation eg. README with usage instructions, setup explanation, etc. 
 	* Clear commit messages and consistent effort: please refrain from commiting all the code on the deadline date.
 	* Have an understanding of the code or ideas used from external sources.
 	* **IMPORTANT**: Please give proper mention and references when using external sources i.e mention links to resource and developer name, star repos referred to, etc. during documentation.
 
 ### Submission
-Fill [this form]() on or before the deadline.
+A form will be rolled out on or before the deadline date.
 
 ### Contact
 In case of any further queries: 
