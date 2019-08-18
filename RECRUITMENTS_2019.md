@@ -6,18 +6,25 @@
 
 <br> <br> 
 ## Task ID: Google/Facebook/Github_Auth
+#### `OAuth` `Web Development` 
 
-Mentor: [@mananpoddar](https://github.com/mananpoddar)
-Tag: Easy<br>
+Mentor: [@mananpoddar](https://github.com/mananpoddar) (+91 9113536695)
+
+Tag: `Easy`
 
 ### Description
 You must have seen websites using third party authentication. For example, think about how you login these days on almost every 
-websites using your google account or facebook or github. Well, the reason being that instead of putting your details manually
-on the signup page, it's obvious to use this way as it's fast and just one click away.
+website using your google account or facebook or github. Well, the reason being that instead of putting your details manually
+on the signup page, it's obvious to use this way as it's fast and just one click away. 
+
+Your task is to make a single web page having OAuth from one of the OAuth providers. After a user loggs in there should be another page to display the basic user detail provided by the OAuth provider. 
 
 ### Useful resources:
 * https://developers.google.com/identity/sign-in/web/
 * https://realpython.com/flask-google-login/
+* https://www.tutorialspoint.com/html/index.htm
+* https://www.tutorialspoint.com/css/index.htm
+* https://www.tutorialspoint.com/javascript/index.htm
 
 ### Tips 
 1. Try to host this on your laptop or any suitable cloud service
@@ -25,30 +32,34 @@ on the signup page, it's obvious to use this way as it's fast and just one click
 
 <br> <br> 
 ## Task ID: Slack_Bot
-
+#### `REST API` `Slack Bot`
 Mentor: [@mishal23](https://github.com/mishal23) (+91 9725801399)
 
-Tag: Easy-Medium <br>
+Tag: `Easy`
 
 ### Description
-Have you seen bot application chatting with you like google assistant? Well, there are pretty simple ways for making applications like slack bot which sends message to slack organization. 
-Feel free to create a dummy workspace for the purpose. A simple example would be to fetch the lyrics of a song and display, you could imagine on your own and make a bot of your choice and the purpose.
+Have you seen bot application chatting with you like google assistant? Well, there are pretty simple ways for making applications like slack bot which sends message to slack organization.
 
-Note: Getting Lyrics of a song bot is just an example, feel free to imagine a bot of your own, validate the idea from the mentor before proceeding ahead.
+* Your task is to create a bot to list the lyrics of a song when a user types the song name in the workspace channel.
+* Feel free to imagine any other use-case, validate the idea from the mentor before proceeding ahead.
 
+Note: Feel free to create a dummy workspace in slack for the purpose
 
 ### Useful resources:
+* https://slack.com
 * https://get.slack.help/hc/en-us/articles/115005265703-Create-a-bot-for-your-workspace
 * https://github.com/Techcatchers/PyLyrics-Extractor
 
 ### Tips
-1. Try to host this on your laptop or any suitable cloud service.
-2. If you have any similar idea and can implement that as well, it will fetch bonus points for you.
+1. If you have any similar idea, go ahead and implement that as well, it will fetch bonus points for you.
 
 <br> <br>
 ## Task ID: Chat_bot
+#### `Chat bot` `Dialog Flow`
 
-Mentor: [@prajwal](https://github.com/prajwal27)
+Mentor: [@prajwal](https://github.com/prajwal27) (+91 9632721417)
+
+Tag: `Medium`
 
 ### Description
 You must have heard about chatbot! So,in this Task, we want you to implement a chatbot in an android app.
@@ -63,8 +74,10 @@ We recommend you to use DialogFlow.
 
 <br> <br> 
 ## Task ID: Blazor_App
+#### `Web App` `Blazor App`
+Mentor: [@utkarsh23](https://github.com/utkarsh23) (+91 9008791852)
 
-Mentor: [@utkarsh23](https://github.com/utkarsh23)
+Tag: `Hard`
 
 ### Description
 Create a Blazor application that can fetch upto a million records using lazy loading. You can use [this dataset](http://downloads.majestic.com/majestic_million.csv) or any other dataset of your choice consisting of a million records and atleast five attributes. Try and implement lazy loading on your own without using any library. Specifics like *how many records to load per scroll event* must be chosen in a manner that provides the best user experience.
@@ -78,9 +91,10 @@ Create a Blazor application that can fetch upto a million records using lazy loa
 
 <br> <br>
 ## Task ID: Survey_App
-Mentor: [@SaurabhAgarwala](https://github.com/SaurabhAgarwala)
-<br>
-Tags: Hard 
+#### `Full stack Web App`
+Mentor: [@SaurabhAgarwala](https://github.com/SaurabhAgarwala) (+91 8415859101)
+
+Tag: `Hard` 
 
 ### Description
 Basic Requirement: Create a Survey web application using any backend framework which will have a few questions (atleast 5) along with few options (atleast 3 for each question), and should load dynamically using jQuery. When the survey is completed by an individual, then show the aggregate result of the survey until that time. The app should have a decent UI, and a smooth-flow across various parts of the survey and the results. There should also be authentication of the user and hence restricting a particular user to take the survey only one time.
@@ -102,9 +116,11 @@ Additional Tasks: Extending the above application to let registered users create
 
 <br> <br>
 ## Task ID: Android_Mobile_Vision
-#### Android, Mobile Vision API
+#### `Android` `Mobile Vision API`
 
 Mentor: [@omkarprabhu-98](https://github.com/omkarprabhu-98) (+91 8097366786)
+
+Tag: `Hard` 
 
 ### Description
 The task is to create a Android Application for capturing the amount on a bill. 
@@ -130,15 +146,17 @@ Please refer the resources section for helpful hints
 
 <br> <br> 
 ## Task ID: Chrome extension for weather forecast
-#### Chrome Extension, OpenWeather api, geolocation
+#### `Chrome Extension` `OpenWeather API` `Geolocation`
 
-Mentor: [@harshprakashgupta](https://github.com/harshnitk17)
+Mentor: [@harshprakashgupta](https://github.com/harshnitk17) (+91 7898578609)
+
+Tag: `Medium` 
 
 ### Description
-Create a chrome extension which can access the user's location and display current weather situation which can include various factors like temperature,wind,pressure,humidity,etc.Participants can use the geolocation api to access the user's location and openweather api to get the weather information.Also bonus points to participants who can use the 5 day openweather api to show weather information of a particular city for 5 days.
+Create a chrome extension which can access the user's location and display current weather situation which can include various factors like temperature, wind, pressure, humidity, etc. Participants can use the geolocation api to access the user's location and openweather api to get the weather information. Also bonus points to participants who can use the 5 day openweather api to show weather information of a particular city for 5 days.
 
 ### Tips 
-* Points will also be given for the user interface (UI) of the extension,so also try to improve the design of the extension. <br>
+* Points will also be given for the user interface (UI) of the extension, so also try to improve the design of the extension.
 
 ### Useful resources:
 * Getting started with chrome extensions: https://developer.chrome.com/extensions/getstarted
@@ -149,10 +167,10 @@ Create a chrome extension which can access the user's location and display curre
      
 <br> <br> 
 ## Task ID: Image Editing App
-#### Web App 
+#### `Web App` `Image` 
 
-Mentor: [@vansjyo](https://github.com/vansjyo) (9611591432)
-<br>
+Mentor: [@vansjyo](https://github.com/vansjyo) (+91 9611591432)
+
 Tag: `Medium`
 
 ### Description
@@ -176,9 +194,11 @@ The task is to create a Wep app which can do the following:
 
 <br> <br>
 ## Task ID: WebClub_Website_Design
-#### Web Development,HTML,CSS
+#### `Front-end Web Development`
 
-Mentor: [@bordia98](https://github.com/bordia98) 
+Mentor: [@bordia98](https://github.com/bordia98) (+91 9611590381)
+
+Tag: `Easy-Medium`
 
 ### Description
 
@@ -193,15 +213,11 @@ The website is divided into 5 sections:
 
 For your reference you can checkout the previous version of website https://webclub-nitk.github.io/
 
-You can use github pages to host your site. 
-
-You can pull the branch for the required structure for the website. You can go in branches section and pull the website branch.
-
-Bonus points will be given if you first design the website on some tool like photoshop and then implement the same or equally likely for the website.
-
+You can pull the branch for the required structure for the website. You can go in branches section and pull the `website` branch [here](https://github.com/WebClub-NITK/WebClubDevRecruitments_2019/tree/website).
 
 ### Tips
-* Bonus points for design the page on photoshop and then implementing it.
+* You can use github pages to host your site. 
+* Bonus points for designing the page using Photoshop and then developing it.
 * Points will be awarded if you complete individual sections also.
 
 ### Useful resources:
@@ -210,5 +226,28 @@ Bonus points will be given if you first design the website on some tool like pho
 * CSS Tutorials : https://www.tutorialspoint.com/css/index.htm
 * JS Tutorials : https://www.tutorialspoint.com/javascript/index.htm
 * Github Pages: https://medium.com/@erickcodes/creating-and-deploying-a-static-website-using-github-pages-a634a588ed7d
+
+<br> <br>
+## Task ID: Real time streaming using WebSockets
+#### `Web Development` `Web Sockets`
+
+Mentor: [@NishanthSubramanian](https://github.com/NishanthSubramanian) (+91 8197845078)
+
+Tag: `Medium`
+
+### Description
+
+To build an app that consists of a server and a client. The server can be written in NodeJS, Python, Ruby or any language/runtime of your choice. The client is a single HTML webpage, which can be opened directly in the browser. The page uses the HTML5 WebSocket spec to connect and stream data to and from the server in real-time. Preferably use plain javascript for the web socket front end. Each client connects to the server and each client should be able to view the real time connections of all clients connected at that point.
+<br>
+[Example](https://tinyurl.com/y56l9tyz)
+
+### Tips
+* Maintain understandable code.
+* Bonus points for making the application cross-browser compatible.
+
+### Useful resources:
+* WebSockets tutorial : https://www.html5rocks.com/en/tutorials/websockets/basics/
+* Using Websockets : https://www.beautifulcode.co/blog/54-an-introduction-to-websocket
+* NodeJS : https://nodejs.org/en/docs/
 
 <br> <br>
