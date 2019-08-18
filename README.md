@@ -1,4 +1,4 @@
-## Google Developer Student Club Recruitments 2019
+## Google Developer Student Club NITK Surathkal Recruitments 2019
 
 <p align="center"> 
 	<img src='https://pbs.twimg.com/profile_images/1113306097912242176/WqWKUUtt.png' width=200> 
